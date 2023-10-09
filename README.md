@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 📫 ¿Donde puedes contactarme? victorseva123@gmail.com
 
 
-css3 express git html5 javascript nextjs nodejs  react redux 
+
