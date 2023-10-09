@@ -21,7 +21,7 @@ Full Stack Web Developer, Front-End lover 💖
 
 🌱 ¿Que estoy aprendiendo actualmente? Actualmente estoy estudiando TypeScript, ya que soy consciente que es una apetecida tecnologia para el desarrolo Front-end.
 
-📫 ¿Donde puedes contactarme? ivancho0@hotmail.com
+📫 ¿Donde puedes contactarme? victorseva123@gmail.com
 
 
 css3 express figma git html5 javascript nextjs nodejs postgresql react redux sass
