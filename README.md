@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Full Stack Web Developer, 
-💬 Conoce un poco mas de mí. Soy una persona responsable, adaptativa a las situaciónes con un alto grado de comunicación y gran proactividad para continuar en constante aprendizaje.
-
-🖥️ ¿Donde puedo ver tus proyectos? Estoy trabajando en deployarlos, pero mientras puedes verlos en mis repositorios.
-
-🌱 ¿Que estoy aprendiendo actualmente? Actualmente estoy estudiando TypeScript, ya que soy consciente que es una apetecida tecnologia para el desarrolo Front-end.
 
 📫 ¿Donde puedes contactarme? victorseva123@gmail.com
 
