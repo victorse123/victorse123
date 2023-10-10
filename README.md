@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 
 
 
-![image](https://github.com/victorse123/victorse123/assets/121969536/dea1f3c4-7a4a-4ede-85fa-1541e7891541)
