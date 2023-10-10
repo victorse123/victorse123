@@ -5,5 +5,8 @@
 🖥️ Actualmente trabajo en unos proyectos para poder presentarselos.
 📫 ¿Donde puedes contactarme? victorseva123@gmail.com
 
+Connet with me: 
+
+https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/
 
 
