@@ -55,19 +55,6 @@ _____
   </p>
 
 
-#### Algunos de mis proyectos:
-
-
-
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
-
-
 
 #### ¿Hablamos?☕️
 
@@ -76,7 +63,7 @@ _____
 
 <a href="[https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
+<a href="mailto:victorseva123@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Victor Alfonso Sepúlveda" height="30" width="40" />victorseva123@gmail.com</a>
 
 
 
