@@ -9,10 +9,6 @@
 
 📫 ¿Donde puedes contactarme? victorseva123@gmail.com
 
-### Connet with me:
-
-https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/
-
 ### Programming languages
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
@@ -54,13 +50,12 @@ _____
   </p>
 
 
-
-#### ¿Hablamos?☕️
+### Connet with me ☕️:
 
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+<a href="[https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Victor Alfonso Sepulveda" height="30" width="40" />linkedin</a>
 
 <a href="mailto:victorseva123@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Victor Alfonso Sepúlveda" height="30" width="40" />victorseva123@gmail.com</a>
 
