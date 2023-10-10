@@ -1,4 +1,4 @@
-### Hi 👋 my name is Victor Sepulveda, welcome to my repo
+### Hi 👋 my name is Victor Sepúlveda, welcome to my repo
 
 <!--
 **victorse123/victorse123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Sobre mí... Soy una persona apasionada por la innovacion
+- 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+💬 Sobre mí... Soy una persona apasionada por la innovacion, la tecnologia y las buenas practicas; convencido que una mente bien usada puede generar grandes ideas y grandes cambios.
 📫 ¿Donde puedes contactarme? victorseva123@gmail.com
 
 
