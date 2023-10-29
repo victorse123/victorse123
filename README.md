@@ -1,4 +1,4 @@
-### Hi 👋 my name is Victor Sepúlveda, welcome to 
+### Hi 👋 my name is Victor Sepúlveda, welcome to my repo
 
 ### FULL STACK WEB DEVELOPER...
 
