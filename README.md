@@ -2,7 +2,7 @@
 
 ### FULL STACK WEB DEVELOPER...
 
-💬 Sobre mí... Soy una persona apasionada por la innovacion, la tecnologia y las buenas practicas; convencido que una mente bien usada puede generar grandes ideas y grandes cambios. Trabajo bajo presion y adaptativo a los cambios que se presenten. Deseo poder brindar todos mis conocimientos en Pro de un mejor futuro para todos.
+💬 Sobre mí... Soy una persona apasionada por la innovacion, la tecnologia y las buenas practicas; convencido de que una mente bien usada puede generar grandes ideas y grandes cambios. Trabajo bajo presion y adaptativo a los cambios que se presenten. Deseo poder brindar todos mis conocimientos en Pro de un mejor futuro para todos.
 
 🖥️ Actualmente trabajo en algunos proyectos para presentarselos. Además de continuar mis estudios incluyendo todo lo necesario para poder desempeñarme a la perfeccion. Alcanzando niveles optimos y enfrentar problematicas que requieren soluciones con altas presiciones, rapidas y enfocadas en el producto final.
 
