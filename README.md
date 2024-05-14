@@ -2,14 +2,20 @@
 
 ### FULL STACK WEB DEVELOPER...
 
-💬 Sobre mí... Soy una persona apasionada por la innovacion, la tecnologia y las buenas practicas; convencido de que una mente bien usada puede generar grandes ideas y grandes cambios. Trabajo bajo presion y adaptativo a los cambios que se presenten. Deseo poder brindar todos mis conocimientos en Pro de un mejor futuro para todos.
+¡Hola, mi nombre es Victor Sepulveda! 🖐
+Tengo 38 años y estoy en constante busqueda de conocimiento y oportunidades para crecr en el mundo tech 🚀🚀🚀. Mi pasion por la programacion me ha llevado a empreder caminos nuevos de aprendizaje y colaboracion. 
+Estoy enfocado en la organizacion, ejecucion, evaluacion y la responsabilidad dentro de mis labores y mi capacidad de adaptacion a diferentes situaciones me ayuda a encontrar soluciones 💡💡. 
 
-🖥️ Actualmente trabajo en algunos proyectos para presentarselos. Además de continuar mis estudios incluyendo todo lo necesario para poder desempeñarme a la perfeccion. Alcanzando niveles optimos y enfrentar problematicas que requieren soluciones con altas presiciones, rapidas y enfocadas en el producto final.
+Actualmente soy Developer Full Stack 🤓 , con formacion en administracion de empresas y administracion financiera. Tengo amplia experiencia en en manejo y optimizacion de recursos; gestion de proyectos y cumplimiento de metas. Experiencia en SQL, cloudinary, nodemailer, railway, html, css, node y vercel.
 
-📫 ¿Donde puedes contactarme? victorseva123@gmail.com
+Tengo mucho interes por interiorizarme en IA y las tecnologias que me permitan desembolverme muy bien en mi campo laboral, soy una persona curiosa y con una gran sed de conocimiento, porque tengo claro que entre mas investigue mas aprendo y puedo aportar conocimiento mas valioso al equipo de trabajo, enfocados en el compañerismo, etica y compromiso de tener un producto de alta calidad y eficiencia.
+Soy dedicado, proactivo, abierto al dialogo, con sed de aprendizaje, buen sentido del humor y competitividad.
 
+Los invito a conocer algunos de los proyectos en los que he trabajado en GitHub:
+https://github.com/victorse123
 
-
+Tengo mucho más que ofrecer que unas lineas escritas, puedes contactarme:
+📭 victorseva123@gmail.com 📫
 ### Programming languages
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> 
