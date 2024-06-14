@@ -2,7 +2,7 @@
 
 ### FULL STACK WEB DEVELOPER...
 
-¡Hola, mi nombre es Victor Sepulveda! 🖐
+¡Hola, mi nombre es Victor Sepulveda! 🖐🖐🖐🖐🖐
 Tengo 38 años y estoy en constante busqueda de conocimiento y oportunidades para crecr en el mundo tech 🚀🚀🚀🚀🚀🚀. Mi pasion por la programacion me ha llevado a empreder caminos nuevos de aprendizaje y colaboracion. 
 Estoy enfocado en la organizacion, ejecucion, evaluacion y la responsabilidad dentro de mis labores y mi capacidad de adaptacion a diferentes situaciones me ayuda a encontrar soluciones 💡💡. 
 
