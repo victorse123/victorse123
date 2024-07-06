@@ -6,7 +6,7 @@
 Tengo 38 años y estoy en constante busqueda de conocimiento y oportunidades para crecr en el mundo tech 🚀🚀🚀🚀🚀. Mi pasion por la programacion me ha llevado a empreder caminos nuevos de aprendizaje y colaboracion. 
 Estoy enfocado en la organizacion, ejecucion, evaluacion y la responsabilidad dentro de mis labores y mi capacidad de adaptacion a diferentes situaciones me ayuda a encontrar soluciones 💡💡💡💡. 
 
-Actualmente soy 🤓 Developer Full Stack 🤓 , con formacion en administracion de empresas y administracion financiera. Tengo amplia experiencia en en manejo y optimizacion de recursos; gestion de proyectos y cumplimiento de metas. Experiencia en SQL, cloudinary, nodemailer, railway, html, css, node y vercel.
+Actualmente soy 🤓🤓🤓🤓🤓  Developer Full Stack 🤓 , con formacion en administracion de empresas y administracion financiera. Tengo amplia experiencia en en manejo y optimizacion de recursos; gestion de proyectos y cumplimiento de metas. Experiencia en SQL, cloudinary, nodemailer, railway, html, css, node y vercel.
 
 Tengo mucho interes por interiorizarme en IA y las tecnologias que me permitan desembolverme muy bien en mi campo laboral, soy una persona curiosa y con una gran sed de conocimiento, porque tengo claro que entre mas investigue mas aprendo y puedo aportar conocimiento mas valioso al equipo de trabajo, enfocados en el compañerismo, etica y compromiso de tener un producto de alta calidad y eficiencia.
 Soy dedicado, proactivo, abierto al dialogo, con sed de aprendizaje, buen sentido del humor y competitividad.
