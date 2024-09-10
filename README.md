@@ -3,7 +3,7 @@
 ### Buenvenidos a mis repos...
 
 ¡Hola, 🖐🖐 mi nombre es Victor Sepulveda! 🖐🖐
-Tengo 38 años y estoy en constante busqueda de conocimiento y oportunidades para crecr en el mundo tech 🚀🚀. Mi pasion por la programacion me ha llevado a empreder caminos nuevos de aprendizaje y colaboracion. 
+Tengo 39 años y estoy en constante busqueda de conocimiento y oportunidades para crecr en el mundo tech 🚀🚀. Mi pasion por la programacion me ha llevado a empreder caminos nuevos de aprendizaje y colaboracion. 
 Estoy enfocado en la organizacion, ejecucion, evaluacion y la responsabilidad dentro de mis labores y mi capacidad de adaptacion a diferentes situaciones me ayuda a encontrar soluciones 💡💡
 
 Actualmente soy 🤓🤓  Developer Full Stack 🤓🤓, con formacion en administracion de empresas y administracion financiera. Tengo amplia experiencia en en manejo y optimizacion de recursos; gestion de proyectos y cumplimiento de metas. Experiencia en SQL, cloudinary, nodemailer, railway, html, css, node y vercel.
