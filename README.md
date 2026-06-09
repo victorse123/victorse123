@@ -19,7 +19,7 @@ Soy una persona curiosa, proactiva y con una gran sed de aprendizaje, convencido
 ### 📈 Mis Proyectos Destacados
 
 Te invito a explorar mis repositorios principales:
-* 📊 **[Baloto Data Analytics](https://github.com/victorse123/baloto-data-analytics):** Aplicación Full Stack (Node/React) para el seguimiento y análisis probabilístico de sorteos.
+📊 **[Baloto Data Analytics](https://github.com/victorse123/baloto-data-analytics):** Aplicación Full Stack (Node/React)...** para el seguimiento y análisis probabilístico de sorteos.
 
 ---
 
@@ -28,4 +28,4 @@ Te invito a explorar mis repositorios principales:
 Tengo mucho más que ofrecer que unas líneas de código. Si buscas un desarrollador con madurez, visión de negocio y compromiso, ¡hablemos!
 
 * 📧 **Email:** victorseva123@gmail.com
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/]
+* 💼 **LinkedIn:** [Ver mi perfil profesional](https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/)
