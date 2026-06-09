@@ -1,59 +1,31 @@
-### FULL STACK WEB DEVELOPER...
+# ¡Hola! Soy Víctor Sepúlveda 👋🚀
+**Full Stack Web Developer | Administrador de Empresas & Financiero**
 
-### Bienvenidos a mis repos...
+Tengo 40 años y estoy en constante búsqueda de conocimiento y oportunidades para crecer en el ecosistema tech. Mi pasión por la programación, combinada con mi formación en administración de empresas y finanzas, me permite aportar una visión estratégica única: optimización de recursos, gestión de proyectos y cumplimiento de metas orientadas al negocio.
 
-¡Hola, 🖐🖐 mi nombre es Victor Sepulveda! 🖐🖐
-Tengo 40 años y estoy en constante busqueda de conocimiento y oportunidades para crecr en el mundo tech 🚀🚀. Mi pasion por la programacion me ha llevado a empreder caminos nuevos de aprendizaje y colaboracion. 
-Estoy enfocado en la organizacion, ejecucion, evaluacion y la responsabilidad dentro de mis labores y mi capacidad de adaptacion a diferentes situaciones me ayuda a encontrar soluciones 💡💡
+Soy una persona curiosa, proactiva y con una gran sed de aprendizaje, convencido de que el trabajo en equipo, la ética y el compañerismo son la clave para entregar productos de alta calidad y eficiencia.
 
-Actualmente soy 🤓🤓  Developer Full Stack 🤓🤓, con formacion en administracion de empresas y administracion financiera. Tengo amplia experiencia en en manejo y optimizacion de recursos; gestion de proyectos y cumplimiento de metas. Experiencia en SQL, cloudinary, nodemailer, railway, html, css, node y vercel.
+---
 
-Tengo mucho interes por interiorizarme en IA y las tecnologias que me permitan desembolverme muy bien en mi campo laboral, soy una persona curiosa y con una gran sed de conocimiento, porque tengo claro que entre mas investigue mas aprendo y puedo aportar conocimiento mas valioso al equipo de trabajo, enfocados en el compañerismo, etica y compromiso de tener un producto de alta calidad y eficiencia.
-Soy dedicado, proactivo, abierto al dialogo, con sed de aprendizaje, buen sentido del humor y competitividad.
+### 🛠️ Tecnologías y Herramientas
 
-Los invito a conocer algunos de los proyectos en los que he trabajado en GitHub:
-https://github.com/victorse123
+* **Frontend:** HTML5, CSS3, JavaScript, React, TailwindCSS.
+* **Backend & Bases de Datos:** Node.js, Express, SQL.
+* **Herramientas & Despliegue:** Cloudinary, Nodemailer, Railway, Vercel, Git & GitHub.
+* **Intereses Actuales:** Inteligencia Artificial y Análisis de Datos (Data Engineering).
 
-Tengo mucho más que ofrecer que unas lineas escritas, puedes contactarme:
-📭 victorseva123@gmail.com 📫
-### Programming languages
+---
 
+### 📈 Mis Proyectos Destacados
 
-##### Backend Development
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
-</p>
+Te invito a explorar mis repositorios principales:
+* 📊 **[Baloto Data Analytics](https://github.com/victorse123/baloto-data-analytics):** Aplicación Full Stack (Node/React) para el seguimiento y análisis probabilístico de sorteos.
 
+---
 
-_____
+### 📭 ¡Conectemos!
 
+Tengo mucho más que ofrecer que unas líneas de código. Si buscas un desarrollador con madurez, visión de negocio y compromiso, ¡hablemos!
 
-##### Database
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-
-
-
-_____
-
-
- ##### Others
- <p align="left"> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
-
-  </p>
-
-
-### Connet with me ☕️:
-
-
-<p align="left">
-
-<a href="[https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Victor Alfonso Sepulveda" height="30" width="40" />linkedin</a>
-
-<a href="mailto:victorseva123@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Victor Alfonso Sepúlveda" height="30" width="40" />victorseva123@gmail.com</a>
-
-
-
-
+* 📧 **Email:** victorseva123@gmail.com
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/victor-alfonso-sepulveda-varela-5857271a5/]
