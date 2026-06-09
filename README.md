@@ -1,5 +1,6 @@
 # ¡Hola! Soy Víctor Sepúlveda 👋🚀
-**Full Stack Web Developer | Administrador de Empresas & Financiero**
+
+### Full Stack Web Developer | Administrador de Empresas & Financiero
 
 Tengo 40 años y estoy en constante búsqueda de conocimiento y oportunidades para crecer en el ecosistema tech. Mi pasión por la programación, combinada con mi formación en administración de empresas y finanzas, me permite aportar una visión estratégica única: optimización de recursos, gestión de proyectos y cumplimiento de metas orientadas al negocio.
 
@@ -19,7 +20,7 @@ Soy una persona curiosa, proactiva y con una gran sed de aprendizaje, convencido
 ### 📈 Mis Proyectos Destacados
 
 Te invito a explorar mis repositorios principales:
-📊 **[Baloto Data Analytics](https://github.com/victorse123/baloto-data-analytics):** Aplicación Full Stack (Node/React)** para el seguimiento y análisis probabilístico de sorteos.
+* 📊 **[Baloto Data Analytics](https://github.com/victorse123/baloto-data-analytics):** Aplicación Full Stack (Node/React) para el seguimiento y análisis probabilístico de sorteos.
 
 ---
 
